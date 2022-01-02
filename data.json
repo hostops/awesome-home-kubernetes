@@ -1,6 +1,11 @@
 {
   "user_repositories": [
     {
+      "repo": "hostops/Always-free-kubernetes",
+      "description": "Create always free kubernetes on Oracle cloud built using terraform and K3S kubernetes distribution",
+      "gitops_tool": "terraform"
+    },
+    {
       "repo": "bjw-s/home-ops",
       "description": "Flux/GitOps managed Talos",
       "gitops_tool": "flux"
